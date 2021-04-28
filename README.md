@@ -1,1 +1,1 @@
-# 以 Java 生态为核心，Go 为工具，持续推进战略发展。
+# http://hongxi.org
