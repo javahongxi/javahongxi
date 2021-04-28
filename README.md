@@ -1,3 +1,1 @@
-# http://hongxi.org
-# http://wiki.hongxi.org
-# http://blog.hongxi.org
+# 专注于Java生态研究，为Java学习者少走弯路。
