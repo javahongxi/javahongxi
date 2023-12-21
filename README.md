@@ -1,1 +1,1 @@
-# 专注于消息中间件
+# douyin: wuhan.hongxi
